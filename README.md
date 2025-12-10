@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-## I'm a computer science student @ Rutgers New Brunswick
+### I'm a computer science student @ Rutgers New Brunswick
 
 Languages: Java, Python, Ocaml, Javascript, HTML, CSS
 
