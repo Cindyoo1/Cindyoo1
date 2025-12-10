@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## I'm a computer science student @ Rutgers New Brunswick
+
+Languages: Java, Python, Ocaml, Javascript, HTML, CSS
+
+
 <!--
 **Cindyoo1/Cindyoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
